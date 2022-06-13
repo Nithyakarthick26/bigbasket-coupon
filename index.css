@@ -64,9 +64,9 @@
 #coupon
 {
     height:230px;
-    width:350px;
+    width:300px;
     margin-top:2%;
-    margin-left:40%;
+    margin-left:30%;
     z-index:100;
     visibility:hidden;
     position:absolute;
@@ -84,7 +84,7 @@
 {
     position:absolute;
     z-index:100;
-    margin-left:92%;
+    margin-left:90%;
     font-size:20px;
     width:30px;
     height:30px
